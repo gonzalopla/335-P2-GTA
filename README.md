@@ -1,13 +1,20 @@
 # 335-P2-GTA
 Time-stamp: <2019-11-15 -13:46->
-cpsc 335-05
+
+## cpsc 335-05
 project 2 Asgwilanga Cavern
-GROUP: GTA
+
+## GROUP: GTA
+
 MEMBERS:
- Morgan heaslet-889570339
- Joseph Santiago-889842258
- Mohammad Mirwais-893508358
- Gonzalo Plascencia-893681932
+
+ ### Morgan heaslet-889570339
+ 
+ ### Joseph Santiago-889842258
+ 
+ ### Mohammad Mirwais-893508358
+ 
+ ### Gonzalo Plascencia-893681932
 ------------------------------------------------------------
 
 How to handle the 335-p2-gta files to get results:
