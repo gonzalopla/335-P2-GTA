@@ -1,10 +1,7 @@
 # 335-P2-GTA
- Asgwilanga Cavern
-
-README: Notes on an HTML + CSS + CSS + JS example
 Time-stamp: <2019-09-26 -13:46- >
 cpsc 335-05
-project 1 cella ant
+project 2 Asgwilanga Cavern
 GROUP: GTA
 MEMBERS:
  Morgan heaslet-889570339
@@ -35,7 +32,7 @@ Contents of project:
 	b. index.html
 	c. styles.css
 	d. room.js
-	e. readme
+	e. readme.md
 Sources:
 	lots of help from online user @Fwienb
 	https://codepen.io/FWeinb/pen/CJpjl
