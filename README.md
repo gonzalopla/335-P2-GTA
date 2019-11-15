@@ -1,5 +1,5 @@
 # 335-P2-GTA
-Time-stamp: <2019-09-26 -13:46- >
+Time-stamp: <2019-11-15 -13:46->
 cpsc 335-05
 project 2 Asgwilanga Cavern
 GROUP: GTA
@@ -10,14 +10,14 @@ MEMBERS:
  Gonzalo Plascencia-893681932
 ------------------------------------------------------------
 
-How to handle the ANT files to get results:
+How to handle the 335-p2-gta files to get results:
 
-1. Main HTML file is ant, a web page.
-2. Sibling folder (at same level as .html) is "draw-stuff" and "ant".
-  (You can move this folder elsewhere if you change ant.html accordingly.)
-3. Web page links to (loads) cssant/styles.css
+1. Main HTML file is index, a web page.
+2. Sibling folder (at same level as .html) is "cave" and "room".
+  (You can move these files elsewhere if you change index.html accordingly.)
+3. Web page links to (loads) styles.css
 4. Web page has some HTML markup for title, header and text.
-5. After body, web page loads two script files one called "draw-stuff" another "ant" with fcns.
+5. After body, web page loads two script files one called "cave" another "room" with fcns.
 6. After that, another Script section defines another function.
 7. And then runs some "loose" Javascript commands.
 
@@ -34,13 +34,10 @@ Contents of project:
 	d. room.js
 	e. readme.md
 Sources:
-	lots of help from online user @Fwienb
-	https://codepen.io/FWeinb/pen/CJpjl
+	
 Features:
-	a. drop down menu selection where you can choose from 1 step at a time up to 10,000
-	b. if you are in 1 step at a time mode easy to see the ant and direction it is going with arrow
+	a. steps through caverns one second each
 Problems: 
 	unknown if any problems exist yet
-	***project description says to make square grid of 41x41 we believed this to be an error/typo and made it 410x410 instead
 complexity: 
 	O(N) describes our algorithm whose performance will grow linearly and in direct proportion to the size of number of steps.
